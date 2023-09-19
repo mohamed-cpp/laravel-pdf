@@ -33,7 +33,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "misterspelik\\LaravelPdf\\PdfServiceProvider"
+                "misterspelik\\LaravelPdf\\Providers\\PdfServiceProvider"
             ],
             "aliases": {
                 "PDF": "misterspelik\\LaravelPdf\\Facades\\Pdf"
