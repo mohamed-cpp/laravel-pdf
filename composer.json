@@ -7,7 +7,7 @@
         "test": "phpunit --colors=always"
     },
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "^7.4 || ^8.0 || ^8.1 || ^8.2",
         "ext-gd": "*",
         "ext-imagick": "*",
         "ext-mbstring": "*",
